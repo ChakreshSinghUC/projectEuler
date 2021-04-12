@@ -1,3 +1,5 @@
+// https://projecteuler.net/problem=11
+// Solution: 70600674
 #include <iostream>
 #include <vector>
 
